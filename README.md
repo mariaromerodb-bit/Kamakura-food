@@ -1,5 +1,7 @@
 # 🍣 Kamakura Food 🍱
 Una aplicacion web interactiva de pedidos de comida japonesa
+
+
 ## 🚀 Requisitos Funcionales
 - La página DEBE imprimir en pantalla los platos del menú con la información proporcionada en el archivo de data.js
 - DEBE imprimir en pantalla los filtros de las categorías del menú con la información proporcionada en el archivo de data.js
@@ -14,6 +16,8 @@ Una aplicacion web interactiva de pedidos de comida japonesa
 - DEBE sumar el subtotal mientras se cambie la cantidad de cada plato.
 - DEBE mostrar el total de todos los subtotales.
 - DEBE mostrar el recibo al proceder con el pago, que contendrá todos los platos escogidos con sus cantidades, subtotal y total.
+
+
 ## 🛠️ Arquitectura y Estructura del Proyecto
 ```text
 kamakura-food/
@@ -31,11 +35,17 @@ kamakura-food/
     ├── receipt.js              # Procesamiento de datos y conmutación visual de la factura de pago
     ├── searcher.js             # Motor de filtrado puro por categorías
     └── events.js               # Orquestador central y escuchador de eventos globales (Punto de entrada)
-##💻 Tecnologías Utilizadas
+
+
+## 🛠️ Tecnologías Utilizadas
 HTML5
 CSS3
 JavaScript
-##🔗 Enlaces del Proyecto
+
+
+## 🔗 Enlaces del Proyecto
 notion: https://www.notion.so/mariaromerodb/Kamakura-Food-366c6a61737b80b18f75f8bdfbfae0e4
-##Autora
+
+
+## ✍️ Autora
 María de Benito
