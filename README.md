@@ -17,6 +17,17 @@ Una aplicacion web interactiva de pedidos de comida japonesa
 - DEBE mostrar el total de todos los subtotales.
 - DEBE mostrar el recibo al proceder con el pago, que contendrá todos los platos escogidos con sus cantidades, subtotal y total.
 
+## 💻 Tecnologías Utilizadas
+HTML5
+CSS3
+JavaScript
+
+## 🔗 Enlaces del Proyecto
+Noton: https://www.notion.so/mariaromerodb/Kamakura-Food-366c6a61737b80b18f75f8bdfbfae0e4
+
+## ✍️ Autora 
+* **María de Benito**
+
 
 ## 🛠️ Arquitectura y Estructura del Proyecto
 ```text
@@ -35,17 +46,3 @@ kamakura-food/
     ├── receipt.js              # Procesamiento de datos y conmutación visual de la factura de pago
     ├── searcher.js             # Motor de filtrado puro por categorías
     └── events.js               # Orquestador central y escuchador de eventos globales (Punto de entrada)
-
-
-## 🛠️ Tecnologías Utilizadas
-HTML5
-CSS3
-JavaScript
-
-
-## 🔗 Enlaces del Proyecto
-notion: https://www.notion.so/mariaromerodb/Kamakura-Food-366c6a61737b80b18f75f8bdfbfae0e4
-
-
-## ✍️ Autora
-María de Benito
